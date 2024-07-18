@@ -1,5 +1,5 @@
 # fizz
-A software development environment for the Fizzit range of sensor-network programmable modules.
+A software development environment for Fizzit sensor-network programmable modules.
 
 
 
